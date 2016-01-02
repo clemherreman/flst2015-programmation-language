@@ -3,6 +3,12 @@ Langages de programmation 2 - PHP 102
 
 Le but de cette partie du cours est de montrer une utilisation plus avancée de PHP, permettant de créer des programmes simples.
 
+* [1 - Les fonction](#1---les-fonctions)
+* [2 - Communiquer d'une page à une autre](#2---communiquer-dune-page-à-une-autre)
+  * [2.1 - Via des formulaires](#21-via-des-formulaires)
+  * [Exemples de formulaires](#exemple-de-formulaire-)
+  * [POST vs GET](#post-vs-get)
+
 1 - Les fonctions
 -------
 
