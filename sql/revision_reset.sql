@@ -48,9 +48,9 @@ INSERT INTO acteur VALUES (3, 'Suraj Sharma');
 INSERT INTO acteur VALUES (4, 'Brad Pitt');
 INSERT INTO acteur VALUES (5, 'Edward Norton');
 
-INSERT INTO filmographie VALUES(1,5, 'Roux', 5000);
-INSERT INTO filmographie VALUES(1,7, 'Rango', 10000);
-INSERT INTO filmographie VALUES(2,2, 'Michael Corleone', 10000);
-INSERT INTO filmographie VALUES(2,3, 'Michael Corleone', 20000);
-INSERT INTO filmographie VALUES(2,6, 'Tony Montana', 15000);
-INSERT INTO filmographie VALUES(3,4, 'Pi', 20000);
+INSERT INTO filmographie VALUES(1,1,5, 'Roux', 5000);
+INSERT INTO filmographie VALUES(2,1,7, 'Rango', 10000);
+INSERT INTO filmographie VALUES(3,2,2, 'Michael Corleone', 10000);
+INSERT INTO filmographie VALUES(4,2,3, 'Michael Corleone', 20000);
+INSERT INTO filmographie VALUES(5,2,6, 'Tony Montana', 15000);
+INSERT INTO filmographie VALUES(6,3,4, 'Pi', 20000);
